@@ -1,0 +1,6 @@
+To run this project, you will need :
+pandas
+xgboost
+scikit-learn
+numpy
+matplotlib
