@@ -16,7 +16,7 @@ This project leverages machine learning to predict the outcomes of Premier Leagu
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Predicting-Premier-League-Match-Outcomes-Using-Machine-Learning.git
+    git clone https://github.com/MohamedGuedira/Predicting-Premier-League-Match-Outcomes-Using-Machine-Learning.git
     ```
 
 2. Navigate to the project directory:
